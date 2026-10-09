@@ -1,0 +1,27 @@
+{
+  "majors": {
+    "Computer Science": ["python", "programming", "coding", "software", "cybersecurity", "AI", "artificial intelligence", "machine learning", "hackathon", "developer"],
+    "Computer Engineering": ["hardware", "robotics", "circuits", "embedded systems", "programming", "computer engineering", "software"],
+    "Finance": ["finance", "banking", "investments", "trading", "stocks", "markets", "fintech", "accounting"],
+    "Economics": ["economics", "economic", "markets", "policy", "trade", "data analysis"],
+    "Biology": ["biology", "medicine", "healthcare", "genetics", "biotechnology", "research", "laboratory"],
+    "Psychology": ["psychology", "mental health", "behavior", "neuroscience", "wellbeing", "research"],
+    "Mathematics": ["mathematics", "math", "statistics", "data analysis", "modeling", "algorithms"],
+    "Mechanical Engineering": ["mechanical engineering", "robotics", "design", "manufacturing", "engineering", "CAD"],
+    "Business": ["business", "entrepreneurship", "startup", "marketing", "management", "networking"],
+    "Nursing": ["nursing", "healthcare", "medicine", "clinical", "patient", "wellbeing"],
+    "Undecided": []
+  },
+  "interests": {
+    "Technology": ["technology", "software", "coding", "programming", "cybersecurity", "robotics", "hackathon"],
+    "Artificial Intelligence": ["AI", "artificial intelligence", "machine learning", "algorithms"],
+    "Entrepreneurship": ["entrepreneurship", "startup", "founder", "pitch", "business"],
+    "Finance": ["finance", "banking", "investments", "trading", "fintech"],
+    "Research": ["research", "laboratory", "discovery", "genetics"],
+    "Networking": ["networking", "meetup", "connections", "alumni"],
+    "Career Development": ["career", "internship", "resume", "interview", "recruiting"],
+    "Sports": ["sports", "basketball", "soccer", "volleyball", "fitness"],
+    "Arts": ["arts", "art", "music", "poetry", "photography", "design"],
+    "Community Service": ["community service", "volunteer", "food drive", "service"]
+  }
+}
